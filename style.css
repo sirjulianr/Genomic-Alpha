@@ -34,12 +34,14 @@ Tags: light, white,Multi page,Medical,Hospital,Health,custom-colors,Bootstrap,re
 	
 	text-align: left;	
 	color: black;
+	font-size: 2em;
 }
 
 #apptxt{
 	
 		color: black;
-	padding-right: 25em;
+	padding-right: 30em;
+	font-size: 1.5em;
 }
 
 #whttxt{
