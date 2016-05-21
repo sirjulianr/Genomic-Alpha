@@ -29,6 +29,19 @@ Tags: light, white,Multi page,Medical,Hospital,Health,custom-colors,Bootstrap,re
 	#404 page
 	#RESPONSIVE CSS
 */
+
+#apphead{
+	
+	text-align: left;	
+	color: black;
+}
+
+#apptxt{
+	
+		color: black;
+	padding-right: 25em;
+}
+
 #whttxt{
 	
 	color: white;
